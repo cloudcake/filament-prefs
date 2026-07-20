@@ -1,0 +1,22 @@
+{
+  "name": "cloudcake/filament-prefs",
+  "type": "library",
+  "license": "proprietary",
+  "description": "Filament user panel preferences.",
+  "require": {
+    "php": "^8.2",
+    "filament/filament": "^4.0|^5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cloudcake\\Prefs\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Cloudcake\\Prefs\\ServiceProvider"
+      ]
+    }
+  }
+}
