@@ -15,7 +15,7 @@
 
 ### Install the package via Composer
 
-`composer require cloudcake/laravel-mails`
+`composer require cloudcake/filament-prefs`
 
 ## Quickstart
 
