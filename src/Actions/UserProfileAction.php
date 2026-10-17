@@ -22,8 +22,8 @@ class UserProfileAction extends Action
 
                          Notification::make()
                                      ->success()
-                                     ->title('Preferences updated')
-                                     ->body('Your preferences have been updated successfully.')
+                                     ->title('Profile updated')
+                                     ->body('Your profile has been updated successfully.')
                                      ->send();
                      });
     }

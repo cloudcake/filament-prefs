@@ -4,7 +4,9 @@
   "license": "proprietary",
   "description": "Filament user panel preferences.",
   "require": {
-    "php": "^8.2",
+    "php": "^8.2"
+  },
+  "require-dev": {
     "filament/filament": "^4.0|^5.0"
   },
   "autoload": {

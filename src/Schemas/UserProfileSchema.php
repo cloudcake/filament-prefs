@@ -2,7 +2,6 @@
 
 namespace Cloudcake\Prefs\Schemas;
 
-use Cloudcake\Prefs\Preferences;
 use Filament\Forms\Components\TextInput;
 use Filament\Schemas\Components\Component;
 use Filament\Schemas\Components\Group;
